@@ -1,0 +1,48 @@
+* {
+    background-color: rgb(118, 118, 221);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: white;
+}
+
+td {
+    background-color: greenyellow;
+}
+
+td.red {
+    background-color: red;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btnstyle {
+    height: 50px;
+    width: 100px;
+    background-color: antiquewhite;
+    border-radius: 12px;
+    border: solid #ddd;
+    cursor: pointer;
+}
